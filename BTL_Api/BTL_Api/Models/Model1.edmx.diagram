@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e30381af75804380bafd113ca1397f10" Name="Diagram1">
+        <EntityTypeShape EntityType="testModel.ChiTietHDN" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.ChiTietHDX" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.GioHang" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.HoaDonNhap" Width="1.5" PointX="3" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.HoaDonXuat" Width="1.5" PointX="3" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.KhachHang" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.LoaiSanPham" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.NhaCungCap" Width="1.5" PointX="0.75" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.NhanVien" Width="1.5" PointX="0.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="testModel.Sanpham1" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <AssociationConnector Association="testModel.FK_ChiTietHDN_HoaDonNhap" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_ChiTietHDN_Sanpham1" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_ChiTietHDX_HoaDonXuat" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_ChiTietHDX_Sanpham1" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_HoaDonNhap_NhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_HoaDonNhap_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_HoaDonXuat_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_HoaDonXuat_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="testModel.FK_Sanpham1_LoaiSanPham" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

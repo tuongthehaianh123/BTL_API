@@ -1,0 +1,55 @@
+﻿@model IEnumerable<BTL_MVC.Models.LoaiSanPham>
+
+@{
+    ViewBag.Title = "Timkiem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Timkiem</h2>
+<p>
+    <button type="button" class="btn btn-primary" style="background: bottom;">@Html.ActionLink("Quay Lại", "Index")</button>
+</p>
+<table id="example1" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <td>
+                Mã SP
+            </td>
+          
+            <td>
+                Tên Sản Phẩm
+            </td>
+            <td>
+                Sửa
+            </td>
+            <td>
+                Xem
+            </td>
+            <td>Xóa</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.ID
+                </td>
+               
+
+
+                <td>
+                    @item.TENLOAI
+                </td>
+              
+
+                <td><a class="btn btn-primary" href="@Url.Action("Edit","LoaiSanPhams")/@item.ID">Edit</a></td>
+                <td><a class="btn btn-primary" href="@Url.Action("Details","LoaiSanPhams")/@item.ID">Deatails</a></td>
+
+                <td><a class="btn btn-primary" onclick="return confirm('Bạn có muốn xóa không?');" href="@Url.Action("Delete","LoaiSanPhams")/@item.ID">Xóa</a></td>
+
+            </tr>
+        }
+
+</table>

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<BTL_MVC.Models.NhanVien>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    <button type="button" class="btn btn-primary" style="background: bottom;"> @Html.ActionLink("Thêm Nhân Viên", "Create")</button>
+</p>
+<div class="col-md-4" style="margin-top: 60px">
+    @using (Html.BeginForm("Timkiem", "NhanViens", FormMethod.Get))
+    {
+        <input style="height:30px;width:250px;" class="search-txt" type="text" id="name" name="name" placeholder="Từ khóa">
+        <button style="height: 30px; margin-left: -10px; width: 45px; background-color: lightsteelblue;" id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+
+    }
+</div>
+<table id="example1" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <td>
+                ID
+            </td>
+
+            <td>
+                Tên Nhân Viên
+            </td>
+
+            <td>
+                Chức Vụ
+            </td>
+            <td>
+                Địa Chỉ
+            </td>
+            <td>
+                Số Điện Thoại
+            </td>
+            <td>
+                Email
+            </td>
+            <td>
+                Tên Tài Khoản   
+            </td>
+            <td>
+                Mật Khẩu
+            </td>
+            <td>
+                Sửa
+            </td>
+            <td>
+                Xem
+            </td>
+            <td>Xóa</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @item.ID
+            </td>
+            <td>
+                @item.TENNV
+            </td>
+            <td>
+                @item.CHUCVU
+            </td>
+            <td>
+                @item.DIACHI
+            </td>
+            <td>
+                @item.SODIENTHOAI
+            </td>
+            <td>
+                @item.EMAIL
+            </td>
+            <td>
+                @item.MK
+            </td>
+            <td><a class="btn btn-primary" href="@Url.Action("Edit","NhanViens")/@item.ID">Edit</a></td>
+            <td><a class="btn btn-primary" href="@Url.Action("Details","NhanViens")/@item.ID">Deatails</a></td>
+
+            <td><a class="btn btn-primary" onclick="return confirm('Bạn có muốn xóa không?');" href="@Url.Action("Delete","NhanViens")/@item.ID">Xóa</a></td>
+
+        </tr>
+        }
+
+</table>

@@ -1,0 +1,479 @@
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\BTL_Api.dll.config
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\BTL_Api.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\BTL_Api.pdb
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csc.exe
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csc.exe.config
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csc.rsp
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csi.exe
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csi.exe.config
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csi.rsp
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.AppContext.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Console.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\vbc.exe
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\vbc.exe.config
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\vbc.rsp
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Antlr3.Runtime.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.SqlServer.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Newtonsoft.Json.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Helpers.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Mvc.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Optimization.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Razor.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\WebGrease.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.SqlServer.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Newtonsoft.Json.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Helpers.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Mvc.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Optimization.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Razor.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Antlr3.Runtime.pdb
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.csprojAssemblyReference.cache
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.csproj.CoreCompileInputs.cache
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.csproj.CopyComplete
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.pdb
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Win32.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\netstandard.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.AppContext.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.Concurrent.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.NonGeneric.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.Specialized.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Console.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Data.Common.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Contracts.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Debug.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Process.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.StackTrace.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Tools.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.TraceSource.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Tracing.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Drawing.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Dynamic.Runtime.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Globalization.Calendars.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Globalization.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Globalization.Extensions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.Compression.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.Compression.ZipFile.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.IsolatedStorage.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.Pipes.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.Expressions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.Parallel.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.Queryable.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Http.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.NameResolution.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.NetworkInformation.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Ping.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Requests.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Security.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Sockets.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.WebHeaderCollection.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.WebSockets.Client.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Net.WebSockets.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ObjectModel.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Reflection.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Reflection.Extensions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Reflection.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Resources.Reader.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Resources.ResourceManager.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Resources.Writer.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Extensions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Handles.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.InteropServices.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Numerics.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Json.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Claims.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Csp.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Principal.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Security.SecureString.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encoding.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encoding.Extensions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.RegularExpressions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Overlapped.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Thread.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.ThreadPool.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Timer.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.ReaderWriter.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XDocument.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XmlDocument.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XmlSerializer.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XPath.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XPath.XDocument.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Options.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Buffers.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Memory.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Numerics.Vectors.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encodings.Web.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Json.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ValueTuple.dll
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Options.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Buffers.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Memory.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Numerics.Vectors.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encodings.Web.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Json.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\haibin\source\repos\BTL_API\BTL_Api\BTL_Api\bin\System.ValueTuple.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\BTL_Api.dll.config
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\BTL_Api.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\BTL_Api.pdb
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csc.exe
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csc.exe.config
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csc.rsp
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csi.exe
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csi.exe.config
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\csi.rsp
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.AppContext.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Console.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\vbc.exe
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\vbc.exe.config
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\vbc.rsp
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Win32.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\netstandard.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.AppContext.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.Concurrent.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.NonGeneric.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Collections.Specialized.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Console.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Data.Common.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Contracts.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Debug.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Process.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.StackTrace.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Tools.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.TraceSource.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Diagnostics.Tracing.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Drawing.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Dynamic.Runtime.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Globalization.Calendars.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Globalization.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Globalization.Extensions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.Compression.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.Compression.ZipFile.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.IsolatedStorage.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.Pipes.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.Expressions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.Parallel.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Linq.Queryable.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Http.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.NameResolution.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.NetworkInformation.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Ping.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Requests.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Security.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Sockets.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.WebHeaderCollection.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.WebSockets.Client.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.WebSockets.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ObjectModel.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Reflection.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Reflection.Extensions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Reflection.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Resources.Reader.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Resources.ResourceManager.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Resources.Writer.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Extensions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Handles.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.InteropServices.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Numerics.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Json.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Claims.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Csp.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.Principal.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Security.SecureString.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encoding.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encoding.Extensions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.RegularExpressions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Overlapped.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Thread.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.ThreadPool.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Timer.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.ReaderWriter.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XDocument.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XmlDocument.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XmlSerializer.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XPath.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Xml.XPath.XDocument.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Antlr3.Runtime.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.SqlServer.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Options.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Newtonsoft.Json.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Buffers.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Memory.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Numerics.Vectors.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encodings.Web.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Json.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ValueTuple.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Helpers.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Mvc.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Optimization.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Razor.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\WebGrease.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\EntityFramework.SqlServer.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Options.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Buffers.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Memory.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Numerics.Vectors.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Encodings.Web.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Text.Json.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.ValueTuple.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Newtonsoft.Json.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Helpers.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Mvc.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Optimization.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.Razor.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Antlr3.Runtime.pdb
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.csproj.CoreCompileInputs.cache
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.csproj.CopyComplete
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.dll
+C:\Users\hai bin\Desktop\api\BTL_API\BTL_Api\BTL_Api\obj\Debug\BTL_Api.pdb

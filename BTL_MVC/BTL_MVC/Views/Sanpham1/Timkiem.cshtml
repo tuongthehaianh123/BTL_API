@@ -1,0 +1,84 @@
+﻿@model IEnumerable<BTL_MVC.Models.Sanpham1>
+
+<p>
+    <button type="button" class="btn btn-primary" style="background: bottom;">@Html.ActionLink("Quay Lại", "Index")</button>
+</p>
+<table id="example1" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <td>
+                Mã SP
+            </td>
+            <td style="max-width:7%;">
+                Hình Ảnh
+            </td>
+            <td>
+                Tên Sản Phẩm
+            </td>
+            <td>
+                Mã Loại
+            </td>
+            <td>
+                Xuất Xứ
+            </td>
+
+
+
+            <td>
+                Mô tả
+            </td>
+
+            <td>
+                Đơn Giá
+            </td>
+
+            <td>
+                Sửa
+            </td>
+            <td>
+                Xem
+            </td>
+            <td>Xóa</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.ID
+                </td>
+                <td>
+                    <img src="/Content/image/@item.IMAGE" class="profile-user-img img-responsive" />
+                </td>
+
+
+                <td>
+                    @item.TENSP
+                </td>
+                <td>
+                    @item.MALOAI
+                </td>
+                <td>
+                    @item.XUATXU
+                </td>
+
+
+                <td>
+                    @item.Description
+                </td>
+
+                <td style="color:red;">
+                    @string.Format("{0:#,##0}", item.GIABAN)đ
+                </td>
+
+                <td><a class="btn btn-primary" href="@Url.Action("Edit","Sanpham1")/@item.ID">Edit</a></td>
+                <td><a class="btn btn-primary" href="@Url.Action("Details","Sanpham1")/@item.ID">Deatails</a></td>
+
+                <td><a class="btn btn-primary" onclick="return confirm('Bạn có muốn xóa không?');" href="@Url.Action("Delete","Sanpham1")/@item.ID">Xóa</a></td>
+
+            </tr>
+        }
+
+</table>

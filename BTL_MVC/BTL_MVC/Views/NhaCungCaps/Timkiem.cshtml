@@ -1,0 +1,69 @@
+﻿@model IEnumerable<BTL_MVC.Models.NhaCungCap>
+
+@{
+    ViewBag.Title = "Timkiem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Timkiem</h2>
+
+<p>
+    <button type="button" class="btn btn-primary" style="background: bottom;">@Html.ActionLink("Quay Lại", "Index")</button>
+</p>
+<table id="example1" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <td>
+                ID
+            </td>
+
+            <td>
+                Tên Nhà Cung Cấp
+            </td>
+
+            <td>
+                Địa Chỉ
+            </td>
+            <td>
+                Số Điện Thoại
+            </td>
+            <td>
+                Sửa
+            </td>
+            <td>
+                Xem
+            </td>
+            <td>Xóa</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @item.ID
+            </td>
+
+
+
+            <td>
+                @item.TENNCC
+            </td>
+            <td>
+                @item.DIACHI
+            </td>
+            <td>
+                @item.SODIENTHOAI
+            </td>
+
+
+            <td><a class="btn btn-primary" href="@Url.Action("Edit","NhaCungCaps")/@item.ID">Edit</a></td>
+            <td><a class="btn btn-primary" href="@Url.Action("Details","NhaCungCaps")/@item.ID">Deatails</a></td>
+
+            <td><a class="btn btn-primary" onclick="return confirm('Bạn có muốn xóa không?');" href="@Url.Action("Delete","NhaCungCaps")/@item.ID">Xóa</a></td>
+
+        </tr>
+        }
+
+</table>

@@ -1,0 +1,100 @@
+﻿@model IEnumerable<BTL_MVC.Models.Sanpham1>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+ 
+<button type="button" class="btn btn-primary"style="background: bottom;" > @Html.ActionLink("Thêm Sản Phẩm", "Create")</button>
+<p>
+   
+</p>
+<div class="col-md-4" style="margin-top: 60px">
+    @using (Html.BeginForm("Timkiem", "SanPham1", FormMethod.Get))
+    {
+        <input style="height:30px;width:250px;" class="search-txt" type="text" id="name" name="name" placeholder="Từ khóa">
+        <button style="height: 30px; margin-left: -10px; width: 45px; background-color: lightsteelblue;" id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+
+    }
+</div>
+<table id="example1" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <td>
+                Mã SP
+            </td>
+            <td style="max-width:7%;">
+                Hình Ảnh
+            </td>
+            <td>
+                Tên Sản Phẩm
+            </td>
+            <td>
+                Mã Loại
+            </td>
+            <td>
+                Xuất Xứ
+            </td>
+
+
+
+            <td>
+                Mô tả
+            </td>
+
+            <td>
+                Đơn Giá
+            </td>
+
+            <td>
+                Sửa
+            </td>
+            <td>
+               Xem
+            </td>
+            <td>Xóa</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @item.ID
+            </td>
+            <td>
+                <img src="/Content/image/@item.IMAGE" class="profile-user-img img-responsive" />
+            </td>
+
+
+            <td>
+                @item.TENSP
+            </td>
+            <td>
+                @item.MALOAI
+            </td>
+            <td>
+                @item.XUATXU
+            </td>
+
+
+            <td>
+                @item.Description
+            </td>
+
+            <td style="color:red;">
+                @string.Format("{0:#,##0}", item.GIABAN)đ
+            </td>
+
+            <td><a class="btn btn-primary" href="@Url.Action("Edit","Sanpham1")/@item.ID">Edit</a></td>
+            <td><a class="btn btn-primary" href="@Url.Action("Details","Sanpham1")/@item.ID">Deatails</a></td>
+
+            <td><a class="btn btn-primary" onclick="return confirm('Bạn có muốn xóa không?');" href="@Url.Action("Delete","Sanpham1")/@item.ID">Xóa</a></td>
+
+        </tr>
+        }
+
+</table>
