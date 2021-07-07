@@ -1,0 +1,58 @@
+﻿@model IEnumerable<BTL_MVC.Models.HoaDonXuat>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ChiTietHDX.MAHDX)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KhachHang.TENKH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NhanVien.TENNV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NGAYXUAT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.THANHTIEN)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChiTietHDX.MAHDX)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KhachHang.TENKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NhanVien.TENNV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NGAYXUAT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.THANHTIEN)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

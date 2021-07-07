@@ -133,6 +133,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HoaDonXuatsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\KhachHangsController.cs" />
     <Compile Include="Controllers\LoaiSanPhamsController.cs" />
@@ -7195,6 +7196,11 @@
     <Content Include="Views\NhanViens\Edit.cshtml" />
     <Content Include="Views\NhanViens\Index.cshtml" />
     <Content Include="Views\NhanViens\Timkiem.cshtml" />
+    <Content Include="Views\HoaDonXuats\Create.cshtml" />
+    <Content Include="Views\HoaDonXuats\Delete.cshtml" />
+    <Content Include="Views\HoaDonXuats\Details.cshtml" />
+    <Content Include="Views\HoaDonXuats\Edit.cshtml" />
+    <Content Include="Views\HoaDonXuats\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
